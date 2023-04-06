@@ -1,0 +1,322 @@
+[
+  {
+    "id": "clg4wi7dw0000ois8r8phqswm",
+    "name": "Rustic",
+    "parentId": null,
+    "createdAt": "2023-04-06T09:13:45.188Z",
+    "updatedAt": "2023-04-06T09:13:45.188Z",
+    "parent": null,
+    "children": [
+      {
+        "id": "clg4wi7gv000kois8ypursuzb",
+        "name": "Awesome",
+        "parentId": "clg4wi7dw0000ois8r8phqswm",
+        "createdAt": "2023-04-06T09:13:45.295Z",
+        "updatedAt": "2023-04-06T09:13:45.295Z"
+      }
+    ]
+  },
+  {
+    "id": "clg4wi7dw0002ois86ikovjbb",
+    "name": "Rustic",
+    "parentId": null,
+    "createdAt": "2023-04-06T09:13:45.188Z",
+    "updatedAt": "2023-04-06T09:13:45.188Z",
+    "parent": null,
+    "children": [
+      {
+        "id": "clg4wi7gv000mois81mplw4qf",
+        "name": "Electronic",
+        "parentId": "clg4wi7dw0002ois86ikovjbb",
+        "createdAt": "2023-04-06T09:13:45.295Z",
+        "updatedAt": "2023-04-06T09:13:45.295Z"
+      }
+    ]
+  },
+  {
+    "id": "clg4wi7dw0004ois8gi64k1iq",
+    "name": "Sleek",
+    "parentId": null,
+    "createdAt": "2023-04-06T09:13:45.188Z",
+    "updatedAt": "2023-04-06T09:13:45.188Z",
+    "parent": null,
+    "children": [
+      {
+        "id": "clg4wi7gv000oois8t66472h8",
+        "name": "Tasty",
+        "parentId": "clg4wi7dw0004ois8gi64k1iq",
+        "createdAt": "2023-04-06T09:13:45.295Z",
+        "updatedAt": "2023-04-06T09:13:45.295Z"
+      }
+    ]
+  },
+  {
+    "id": "clg4wi7dw0006ois8j53sm6u6",
+    "name": "Recycled",
+    "parentId": null,
+    "createdAt": "2023-04-06T09:13:45.188Z",
+    "updatedAt": "2023-04-06T09:13:45.188Z",
+    "parent": null,
+    "children": [
+      {
+        "id": "clg4wi7gv000qois834ira9ta",
+        "name": "Intelligent",
+        "parentId": "clg4wi7dw0006ois8j53sm6u6",
+        "createdAt": "2023-04-06T09:13:45.295Z",
+        "updatedAt": "2023-04-06T09:13:45.295Z"
+      }
+    ]
+  },
+  {
+    "id": "clg4wi7dw0008ois8z8m66b5j",
+    "name": "Fantastic",
+    "parentId": null,
+    "createdAt": "2023-04-06T09:13:45.188Z",
+    "updatedAt": "2023-04-06T09:13:45.188Z",
+    "parent": null,
+    "children": [
+      {
+        "id": "clg4wi7gv000sois85rpo8sfj",
+        "name": "Intelligent",
+        "parentId": "clg4wi7dw0008ois8z8m66b5j",
+        "createdAt": "2023-04-06T09:13:45.295Z",
+        "updatedAt": "2023-04-06T09:13:45.295Z"
+      }
+    ]
+  },
+  {
+    "id": "clg4wi7dw000aois816v1j63r",
+    "name": "Practical",
+    "parentId": null,
+    "createdAt": "2023-04-06T09:13:45.188Z",
+    "updatedAt": "2023-04-06T09:13:45.188Z",
+    "parent": null,
+    "children": [
+      {
+        "id": "clg4wi7gv000uois8xjkk7gda",
+        "name": "Practical",
+        "parentId": "clg4wi7dw000aois816v1j63r",
+        "createdAt": "2023-04-06T09:13:45.295Z",
+        "updatedAt": "2023-04-06T09:13:45.295Z"
+      }
+    ]
+  },
+  {
+    "id": "clg4wi7dw000cois8umr52z0j",
+    "name": "Practical",
+    "parentId": null,
+    "createdAt": "2023-04-06T09:13:45.188Z",
+    "updatedAt": "2023-04-06T09:13:45.188Z",
+    "parent": null,
+    "children": [
+      {
+        "id": "clg4wi7gv000wois86tkidom2",
+        "name": "Handmade",
+        "parentId": "clg4wi7dw000cois8umr52z0j",
+        "createdAt": "2023-04-06T09:13:45.295Z",
+        "updatedAt": "2023-04-06T09:13:45.295Z"
+      }
+    ]
+  },
+  {
+    "id": "clg4wi7dw000eois87laixiso",
+    "name": "Modern",
+    "parentId": null,
+    "createdAt": "2023-04-06T09:13:45.188Z",
+    "updatedAt": "2023-04-06T09:13:45.188Z",
+    "parent": null,
+    "children": [
+      {
+        "id": "clg4wi7gw000yois8m6yvw24x",
+        "name": "Recycled",
+        "parentId": "clg4wi7dw000eois87laixiso",
+        "createdAt": "2023-04-06T09:13:45.295Z",
+        "updatedAt": "2023-04-06T09:13:45.295Z"
+      }
+    ]
+  },
+  {
+    "id": "clg4wi7dw000gois8x3ukb9vx",
+    "name": "Rustic",
+    "parentId": null,
+    "createdAt": "2023-04-06T09:13:45.188Z",
+    "updatedAt": "2023-04-06T09:13:45.188Z",
+    "parent": null,
+    "children": [
+      {
+        "id": "clg4wi7gw0010ois8msfnjzq0",
+        "name": "Luxurious",
+        "parentId": "clg4wi7dw000gois8x3ukb9vx",
+        "createdAt": "2023-04-06T09:13:45.295Z",
+        "updatedAt": "2023-04-06T09:13:45.295Z"
+      }
+    ]
+  },
+  {
+    "id": "clg4wi7dx000iois8op5doy5k",
+    "name": "Tasty",
+    "parentId": null,
+    "createdAt": "2023-04-06T09:13:45.188Z",
+    "updatedAt": "2023-04-06T09:13:45.188Z",
+    "parent": null,
+    "children": [
+      {
+        "id": "clg4wi7gw0012ois8z31hqu19",
+        "name": "Fantastic",
+        "parentId": "clg4wi7dx000iois8op5doy5k",
+        "createdAt": "2023-04-06T09:13:45.295Z",
+        "updatedAt": "2023-04-06T09:13:45.295Z"
+      }
+    ]
+  },
+  {
+    "id": "clg4wi7gv000kois8ypursuzb",
+    "name": "Awesome",
+    "parentId": "clg4wi7dw0000ois8r8phqswm",
+    "createdAt": "2023-04-06T09:13:45.295Z",
+    "updatedAt": "2023-04-06T09:13:45.295Z",
+    "parent": {
+      "id": "clg4wi7dw0000ois8r8phqswm",
+      "name": "Rustic",
+      "parentId": null,
+      "createdAt": "2023-04-06T09:13:45.188Z",
+      "updatedAt": "2023-04-06T09:13:45.188Z"
+    },
+    "children": []
+  },
+  {
+    "id": "clg4wi7gv000mois81mplw4qf",
+    "name": "Electronic",
+    "parentId": "clg4wi7dw0002ois86ikovjbb",
+    "createdAt": "2023-04-06T09:13:45.295Z",
+    "updatedAt": "2023-04-06T09:13:45.295Z",
+    "parent": {
+      "id": "clg4wi7dw0002ois86ikovjbb",
+      "name": "Rustic",
+      "parentId": null,
+      "createdAt": "2023-04-06T09:13:45.188Z",
+      "updatedAt": "2023-04-06T09:13:45.188Z"
+    },
+    "children": []
+  },
+  {
+    "id": "clg4wi7gv000oois8t66472h8",
+    "name": "Tasty",
+    "parentId": "clg4wi7dw0004ois8gi64k1iq",
+    "createdAt": "2023-04-06T09:13:45.295Z",
+    "updatedAt": "2023-04-06T09:13:45.295Z",
+    "parent": {
+      "id": "clg4wi7dw0004ois8gi64k1iq",
+      "name": "Sleek",
+      "parentId": null,
+      "createdAt": "2023-04-06T09:13:45.188Z",
+      "updatedAt": "2023-04-06T09:13:45.188Z"
+    },
+    "children": []
+  },
+  {
+    "id": "clg4wi7gv000qois834ira9ta",
+    "name": "Intelligent",
+    "parentId": "clg4wi7dw0006ois8j53sm6u6",
+    "createdAt": "2023-04-06T09:13:45.295Z",
+    "updatedAt": "2023-04-06T09:13:45.295Z",
+    "parent": {
+      "id": "clg4wi7dw0006ois8j53sm6u6",
+      "name": "Recycled",
+      "parentId": null,
+      "createdAt": "2023-04-06T09:13:45.188Z",
+      "updatedAt": "2023-04-06T09:13:45.188Z"
+    },
+    "children": []
+  },
+  {
+    "id": "clg4wi7gv000sois85rpo8sfj",
+    "name": "Intelligent",
+    "parentId": "clg4wi7dw0008ois8z8m66b5j",
+    "createdAt": "2023-04-06T09:13:45.295Z",
+    "updatedAt": "2023-04-06T09:13:45.295Z",
+    "parent": {
+      "id": "clg4wi7dw0008ois8z8m66b5j",
+      "name": "Fantastic",
+      "parentId": null,
+      "createdAt": "2023-04-06T09:13:45.188Z",
+      "updatedAt": "2023-04-06T09:13:45.188Z"
+    },
+    "children": []
+  },
+  {
+    "id": "clg4wi7gv000uois8xjkk7gda",
+    "name": "Practical",
+    "parentId": "clg4wi7dw000aois816v1j63r",
+    "createdAt": "2023-04-06T09:13:45.295Z",
+    "updatedAt": "2023-04-06T09:13:45.295Z",
+    "parent": {
+      "id": "clg4wi7dw000aois816v1j63r",
+      "name": "Practical",
+      "parentId": null,
+      "createdAt": "2023-04-06T09:13:45.188Z",
+      "updatedAt": "2023-04-06T09:13:45.188Z"
+    },
+    "children": []
+  },
+  {
+    "id": "clg4wi7gv000wois86tkidom2",
+    "name": "Handmade",
+    "parentId": "clg4wi7dw000cois8umr52z0j",
+    "createdAt": "2023-04-06T09:13:45.295Z",
+    "updatedAt": "2023-04-06T09:13:45.295Z",
+    "parent": {
+      "id": "clg4wi7dw000cois8umr52z0j",
+      "name": "Practical",
+      "parentId": null,
+      "createdAt": "2023-04-06T09:13:45.188Z",
+      "updatedAt": "2023-04-06T09:13:45.188Z"
+    },
+    "children": []
+  },
+  {
+    "id": "clg4wi7gw000yois8m6yvw24x",
+    "name": "Recycled",
+    "parentId": "clg4wi7dw000eois87laixiso",
+    "createdAt": "2023-04-06T09:13:45.295Z",
+    "updatedAt": "2023-04-06T09:13:45.295Z",
+    "parent": {
+      "id": "clg4wi7dw000eois87laixiso",
+      "name": "Modern",
+      "parentId": null,
+      "createdAt": "2023-04-06T09:13:45.188Z",
+      "updatedAt": "2023-04-06T09:13:45.188Z"
+    },
+    "children": []
+  },
+  {
+    "id": "clg4wi7gw0010ois8msfnjzq0",
+    "name": "Luxurious",
+    "parentId": "clg4wi7dw000gois8x3ukb9vx",
+    "createdAt": "2023-04-06T09:13:45.295Z",
+    "updatedAt": "2023-04-06T09:13:45.295Z",
+    "parent": {
+      "id": "clg4wi7dw000gois8x3ukb9vx",
+      "name": "Rustic",
+      "parentId": null,
+      "createdAt": "2023-04-06T09:13:45.188Z",
+      "updatedAt": "2023-04-06T09:13:45.188Z"
+    },
+    "children": []
+  },
+  {
+    "id": "clg4wi7gw0012ois8z31hqu19",
+    "name": "Fantastic",
+    "parentId": "clg4wi7dx000iois8op5doy5k",
+    "createdAt": "2023-04-06T09:13:45.295Z",
+    "updatedAt": "2023-04-06T09:13:45.295Z",
+    "parent": {
+      "id": "clg4wi7dx000iois8op5doy5k",
+      "name": "Tasty",
+      "parentId": null,
+      "createdAt": "2023-04-06T09:13:45.188Z",
+      "updatedAt": "2023-04-06T09:13:45.188Z"
+    },
+    "children": []
+  }
+]
